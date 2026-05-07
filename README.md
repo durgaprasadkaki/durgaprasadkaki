@@ -100,6 +100,7 @@
 * 🚀 Built multiple full-stack MERN applications
 * 🔥 Active GitHub contributor with modern web projects
 * 📚 Strong foundation in DSA, DBMS, OOP, OS & Computer Networks
+* 📜 CGPA: 8.33/10 (B.Tech CSE - AI)
 
 ---
 
