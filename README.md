@@ -116,8 +116,8 @@
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: YOUR_LINKEDIN_LINK
-* 💻 GitHub: https://github.com/YOUR_USERNAME
+* 💼 LinkedIn: [YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/venkata-durga-prasad-kaki-668a8a34a/)
+* 💻 GitHub: https://github.com/durgaprasadkaki
 * 📧 Email: [kakisuresh297@gmail.com](mailto:kakisuresh297@gmail.com)
 
 ---
