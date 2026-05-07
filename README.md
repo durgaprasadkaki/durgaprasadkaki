@@ -92,19 +92,11 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=durgaprasadkaki\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=durgaprasadkaki\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=durgaprasadkaki\&theme=tokyonight)
-
----
 
 ## 🏆 Achievements
 
-* 💻 Solved 50+ DSA problems on LeetCode & GeeksforGeeks
+* 💻 Solved 100+ DSA problems on LeetCode & GeeksforGeeks
 * 🚀 Built multiple full-stack MERN applications
 * 🔥 Active GitHub contributor with modern web projects
 * 📚 Strong foundation in DSA, DBMS, OOP, OS & Computer Networks
