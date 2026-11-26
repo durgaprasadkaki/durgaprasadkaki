@@ -84,12 +84,13 @@
 
 ---
 
-### ✅ To-Do List Application
+🌦️ Weather Application
 
-* Task management application with local storage
-* Implemented add, delete, filter, and sorting features
-* Improved user experience with responsive design
+Real-time weather application using OpenWeather API.
 
+Dynamic DOM updates with JavaScript.
+
+Responsive and clean user interface.
 ---
 
 
