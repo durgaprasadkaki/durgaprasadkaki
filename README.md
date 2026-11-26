@@ -99,7 +99,7 @@
 - Data Structures & Algorithms
 - Machine Learning Fundamentals
 - Git & GitHub
-- REST API Development
+- NPTEL: Introduction to Internet Of Things
 
 ---
 
