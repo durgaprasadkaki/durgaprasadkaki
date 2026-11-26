@@ -56,40 +56,28 @@
 
 ---
 
-## 📌 Featured Projects
+Featured Projects
+mento.ai – AI-Powered Personalized Learning Platform
 
-### 🤖 mento.ai– AI-Powered Personalized Learning Platform
- 
-Tech Stack: React, TypeScript, Vite, Tailwind CSS, shadcn/ui, Three.js, Node.js, Express.js, MongoDB, Mongoose, Tavus,
-Daily.co
-• Built an AI-powered personalized learning platform with real-time conversational AI tutoring using Tavus AI replicas and
-Daily.co WebRTC video rooms.
-• Developed an interactive 3D avatar experience using Three.js and a responsive React and TypeScript UI built with Tailwind
-CSS and shadcn/ui.
-• Designed secure RESTful APIs with Express.js and MongoDB, implementing session-based authentication (express-session,
-connect-mongo) and bcrypt password hashing.
----
+Tech Stack: React, TypeScript, Vite, Tailwind CSS, shadcn/ui, Three.js, Node.js, Express.js, MongoDB, Mongoose, Tavus, Daily.co
 
-### 👨‍👩‍👧‍👦 FamBudget– Family Expense Tracker
+Built an AI-powered personalized learning platform with real-time conversational AI tutoring using Tavus AI replicas and Daily.co WebRTC video rooms.
+Developed an interactive 3D avatar experience using Three.js and a responsive React and TypeScript UI built with Tailwind CSS.
+Designed secure RESTful APIs with Express.js and MongoDB, implementing session-based authentication (express-session, connect-mongo) and bcrypt password hashing.
+FamBudget – Family Expense Tracker
+
 Tech Stack: React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JavaScript, JWT
-• Built a full-stack family expense management platform with an interactive dashboard featuring real-time metrics,
-monthly/yearly analytics, and spending trend visualizations using dynamic charts.
- 
-• Implemented JWT authentication and bcrypt password encryption with protected APIs and user-specific secure data
-handling for safe multi-user family access.
-• Developed categorized expense tracking with advanced search, filtering, and family member comparison analytics, alongside a
-fully responsive UI optimized for desktop, tablet, and mobile.
 
----
+Built a full-stack family expense management platform with an interactive dashboard featuring real-time metrics, monthly/yearly analytics, and spending trend visualizations using dynamic charts.
+Implemented JWT authentication and bcrypt password encryption with protected APIs and user-specific secure data handling for safe multi-user family access.
+Developed categorized expense tracking with advanced search, filtering, and family member comparison analytics, alongside a fully responsive UI optimized for desktop, tablet, and mobile.
+Weather Application
 
-### 🌦️ Weather Application
 Tech Stack: HTML, CSS, JavaScript, OpenWeather API
- 
-• Built a dynamic weather app fetching real-time city-based weather data via OpenWeather API integration with live DOM
-manipulation for instant UI updates.
-• Implemented robust input validation and optimized API calls to handle edge cases and reduce unnecessary network requests.
-• Designed a fully responsive and user-friendly interface using HTML and CSS, ensuring smooth experience across all screen
-sizes.
+
+Built a dynamic weather app fetching real-time city-based weather data via OpenWeather API integration with live DOM manipulation for instant UI updates.
+Implemented robust input validation and optimized API calls to handle edge cases and reduce unnecessary network requests.
+Designed a fully responsive and user-friendly interface using HTML and CSS, ensuring a smooth experience across all screen sizes.
 
 ---
 
