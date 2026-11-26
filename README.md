@@ -67,12 +67,13 @@
 
 ---
 
-### 🚚 GOODS – On-Demand Transport Platform
+### 👨‍👩‍👧‍👦 FamBudget – Family Expense Tracker
 
-* Smart logistics and delivery management platform
-* Implemented booking and tracking system
-* Developed scalable backend APIs and responsive frontend
-* Managed transport data efficiently using MongoDB
+* Modern family expense management platform built using MERN Stack
+* Implemented expense tracking, family member management, and dashboard analytics
+* Developed monthly and yearly spending reports using Pie Charts, Bar Charts, and Area Charts
+* Implemented secure JWT authentication, bcrypt password hashing, and protected REST APIs
+* Managed family and expense data efficiently using MongoDB
 
 ---
 
@@ -84,24 +85,16 @@
 
 ---
 
-🌦️ Weather Application
-
-Real-time weather application using OpenWeather API.
-
-Dynamic DOM updates with JavaScript.
-
-Responsive and clean user interface.
----
 
 
 
 ## 🏆 Achievements
 
-* 💻 Solved 100+ DSA problems on LeetCode & GeeksforGeeks
+* 💻 Solved 200+ DSA problems on LeetCode & GeeksforGeeks
 * 🚀 Built multiple full-stack MERN applications
 * 🔥 Active GitHub contributor with modern web projects
 * 📚 Strong foundation in DSA, DBMS, OOP, OS & Computer Networks
-* 📜 CGPA: 8.33/10 (B.Tech CSE - AI)
+* 📜 CGPA: 8.39/10 (B.Tech CSE - AI)
 
 ---
 
